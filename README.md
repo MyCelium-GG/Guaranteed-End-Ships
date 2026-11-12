@@ -23,7 +23,6 @@ Change them with /mycel set guaranteedendships <key> <value>, or in config/guara
 - Server side only. Players don't need to install anything, and vanilla players can join.
 - In singleplayer, install it in your own game.
 - Without Mycel the game still starts: the mod stays off and tells players in chat that Mycel is missing.
-- Works with other mods that add loot to End cities, because the ship itself is vanilla.
 
 ## Build
 
