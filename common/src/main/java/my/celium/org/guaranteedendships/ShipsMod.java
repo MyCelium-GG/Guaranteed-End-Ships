@@ -19,7 +19,7 @@ public final class ShipsMod {
 
     public static final ModMetadata META = ModMetadata.builder(ID, NAME, "1.0.0")
             .author("MyCelium")
-            .website("https://www.curseforge.com/minecraft/mc-mods/guaranteed-end-ships")
+            .website("https://www.curseforge.com/minecraft/mc-mods/guaranteed-endships")
             .updateUrl("https://wiki.mycelium-gg.org/updates/guaranteedendships.json")
             .build();
 
