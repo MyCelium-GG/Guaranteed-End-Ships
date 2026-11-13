@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - unreleased
+## [1.0.0] - 2026-11-13
 
 ### Added
 - Every new End city comes with an End ship, so every city has an Elytra to find. Each city is still an ordinary vanilla city: when one comes out without a ship, its layout is rolled again until it has one.
