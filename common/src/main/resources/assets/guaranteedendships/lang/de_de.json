@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Mycel fehlt. %s braucht die Mycel-Bibliothek und bleibt aus, bis sie installiert ist.",
+  "guaranteedendships.missing_mycel.download": "[Mycel herunterladen]",
+  "guaranteedendships.config.enabled": "Aktiv",
+  "guaranteedendships.config.enabled.desc": "Ob neue Endsiedlungen ein Endschiff bekommen.",
+  "guaranteedendships.config.shipChance": "Schiff-Chance",
+  "guaranteedendships.config.shipChance.desc": "Prozent der neuen Endsiedlungen mit Endschiff. 100 heißt jede Siedlung; Vanilla ist etwa 1 von 5."
+}

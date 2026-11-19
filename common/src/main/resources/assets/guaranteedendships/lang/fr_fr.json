@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Mycel est manquant. %s a besoin de la bibliothèque Mycel et reste désactivé tant qu'elle n'est pas installée.",
+  "guaranteedendships.missing_mycel.download": "[Télécharger Mycel]",
+  "guaranteedendships.config.enabled": "Activé",
+  "guaranteedendships.config.enabled.desc": "Si les nouvelles cités de l'End reçoivent un navire de l'End.",
+  "guaranteedendships.config.shipChance": "Chance de navire",
+  "guaranteedendships.config.shipChance.desc": "Pourcentage des nouvelles cités de l'End avec un navire. 100 = toutes ; en vanilla, environ 1 sur 5."
+}

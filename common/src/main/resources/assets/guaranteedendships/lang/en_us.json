@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Mycel is missing. %s needs the Mycel library to work and stays off until it is installed.",
+  "guaranteedendships.missing_mycel.download": "[Download Mycel]",
+  "guaranteedendships.config.enabled": "Enabled",
+  "guaranteedendships.config.enabled.desc": "Whether new End cities are made to have an End ship.",
+  "guaranteedendships.config.shipChance": "Ship chance",
+  "guaranteedendships.config.shipChance.desc": "Percent of new End cities that get an End ship. 100 means every city; vanilla is roughly 1 in 5."
+}

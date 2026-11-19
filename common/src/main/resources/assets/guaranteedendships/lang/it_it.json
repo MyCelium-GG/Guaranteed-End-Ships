@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Manca Mycel. %s ha bisogno della libreria Mycel e resta spenta finché non la installi.",
+  "guaranteedendships.missing_mycel.download": "[Scarica Mycel]",
+  "guaranteedendships.config.enabled": "Attivo",
+  "guaranteedendships.config.enabled.desc": "Se le nuove città dell'End ricevono una nave dell'End.",
+  "guaranteedendships.config.shipChance": "Probabilità della nave",
+  "guaranteedendships.config.shipChance.desc": "Percentuale delle nuove città dell'End con una nave. 100 significa ogni città; in vanilla circa 1 su 5."
+}

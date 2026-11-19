@@ -16,3 +16,4 @@
 - Setting: `shipChance` (100 by default) if you want ships to be common but not guaranteed
 - Fabric, Forge and NeoForge, Minecraft 26.1 to 26.3
 - Requires [Mycel](https://www.curseforge.com/minecraft/mc-mods/mycel). Without it the game still starts, and the mod tells players in chat that Mycel is missing
+- In 11 languages: English, German, Spanish, French, Dutch, Brazilian Portuguese, Russian, Polish, Italian, Japanese and Simplified Chinese

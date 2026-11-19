@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0] - 2026-11-19
+
+### Added
+- Translated into German, Spanish, French, Dutch, Brazilian Portuguese, Russian, Polish, Italian, Japanese and Simplified Chinese: the settings and the "Mycel is missing" message.
+
+### Changed
+- Needs Mycel 1.7.0.
+
 ## [1.0.0] - 2026-11-13
 
 ### Added

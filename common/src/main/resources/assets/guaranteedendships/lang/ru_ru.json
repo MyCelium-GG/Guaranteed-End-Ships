@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Mycel не установлен. %s нужна библиотека Mycel, без неё мод не работает.",
+  "guaranteedendships.missing_mycel.download": "[Скачать Mycel]",
+  "guaranteedendships.config.enabled": "Включено",
+  "guaranteedendships.config.enabled.desc": "Получают ли новые города Края корабль Края.",
+  "guaranteedendships.config.shipChance": "Шанс корабля",
+  "guaranteedendships.config.shipChance.desc": "Процент новых городов Края с кораблём. 100 — каждый город; в ванилле примерно 1 из 5."
+}

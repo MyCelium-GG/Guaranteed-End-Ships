@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "缺少 Mycel。%s 需要 Mycel 库才能运行，安装前不会生效。",
+  "guaranteedendships.missing_mycel.download": "[下载 Mycel]",
+  "guaranteedendships.config.enabled": "启用",
+  "guaranteedendships.config.enabled.desc": "新生成的末地城是否带有末地船。",
+  "guaranteedendships.config.shipChance": "末地船概率",
+  "guaranteedendships.config.shipChance.desc": "带有末地船的新末地城百分比。100 表示每座城都有；原版约为五分之一。"
+}

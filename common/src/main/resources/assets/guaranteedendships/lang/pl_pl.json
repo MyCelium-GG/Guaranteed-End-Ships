@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Brakuje Mycel. %s potrzebuje biblioteki Mycel i pozostaje wyłączony, dopóki jej nie zainstalujesz.",
+  "guaranteedendships.missing_mycel.download": "[Pobierz Mycel]",
+  "guaranteedendships.config.enabled": "Włączone",
+  "guaranteedendships.config.enabled.desc": "Czy nowe miasta Kresu dostają statek Kresu.",
+  "guaranteedendships.config.shipChance": "Szansa na statek",
+  "guaranteedendships.config.shipChance.desc": "Procent nowych miast Kresu ze statkiem. 100 to każde miasto; w vanilli około 1 na 5."
+}

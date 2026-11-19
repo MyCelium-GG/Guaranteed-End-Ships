@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Mycel がありません。%s は Mycel ライブラリが必要で、インストールされるまで動作しません。",
+  "guaranteedendships.missing_mycel.download": "[Mycel をダウンロード]",
+  "guaranteedendships.config.enabled": "有効",
+  "guaranteedendships.config.enabled.desc": "新しいエンドシティにエンドシップを付けるかどうか。",
+  "guaranteedendships.config.shipChance": "船の確率",
+  "guaranteedendships.config.shipChance.desc": "エンドシップが付く新しいエンドシティの割合。100 ならすべて。バニラではおよそ 5 つに 1 つ。"
+}

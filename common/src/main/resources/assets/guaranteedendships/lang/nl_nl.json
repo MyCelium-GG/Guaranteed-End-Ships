@@ -1,0 +1,8 @@
+{
+  "guaranteedendships.missing_mycel": "Mycel ontbreekt. %s heeft de Mycel-bibliotheek nodig en blijft uit tot die is geïnstalleerd.",
+  "guaranteedendships.missing_mycel.download": "[Mycel downloaden]",
+  "guaranteedendships.config.enabled": "Ingeschakeld",
+  "guaranteedendships.config.enabled.desc": "Of nieuwe Endsteden een Endschip krijgen.",
+  "guaranteedendships.config.shipChance": "Kans op schip",
+  "guaranteedendships.config.shipChance.desc": "Percentage nieuwe Endsteden met een Endschip. 100 is elke stad; vanilla is ongeveer 1 op 5."
+}
